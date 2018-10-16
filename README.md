@@ -6,4 +6,4 @@ Importing a variety of datasets as Pandas dataframes, then performing data clean
 Plotting with Matplotlib and building a custom visualization with interactivity and animation implementing Edward R. Tufte's and Alberto Cairo's principles.
 
 Training different Supervised Machine Learning models - Linear Regression, Polynomial Regression, Lasso Regression, Ridge Regression,
-Decision Tree Classifier, Support Vector Classifier, Ensemble methods - Boosting and Bootstrapping, Gradient Boosted Trees,Random Forest, Neural Networks, understanding the differences between their performance and various performance scores, and tuning the hyperparameters for the optimal performance. 
+Decision Tree Classifier, Naive Bayes, Support Vector Classifier, Ensemble methods - Boosting and Bootstrapping, Gradient Boosted Trees,Random Forest, Neural Networks, understanding the differences between their performance and various performance scores, and tuning the hyperparameters for the optimal performance. 
